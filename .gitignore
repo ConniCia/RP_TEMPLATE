@@ -1,0 +1,10 @@
+# tell git not to track files with the following names or patterns
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*/.DS_Store
+data/*/*
+docs/*
+resources/*
